@@ -1,3 +1,3 @@
 # RailsShooter
 
-A Rails Shoort in Unity
+A Rails Shooter in Unity
